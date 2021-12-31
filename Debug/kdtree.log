@@ -1,0 +1,8 @@
+﻿  kdtree.cpp
+D:\kdtree (1)\kdtree.cpp(166,9): warning C4101: 'count': unreferenced local variable
+D:\kdtree (1)\kdtree.cpp(211,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\kdtree (1)\kdtree.cpp(212,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\kdtree (1)\kdtree.cpp(213,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\kdtree (1)\kdtree.cpp(225,9): warning C4101: 'count': unreferenced local variable
+D:\kdtree (1)\kdtree.cpp(264,9): warning C4101: 'count': unreferenced local variable
+  kdtree.vcxproj -> D:\kdtree (1)\Debug\kdtree.exe
